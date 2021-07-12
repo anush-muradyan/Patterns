@@ -1,0 +1,15 @@
+/Users/anushmuradyan/Desktop/Patterns/Adapter/Adapter/bin/Debug/net5.0/Adapter.deps.json
+/Users/anushmuradyan/Desktop/Patterns/Adapter/Adapter/bin/Debug/net5.0/Adapter.runtimeconfig.json
+/Users/anushmuradyan/Desktop/Patterns/Adapter/Adapter/bin/Debug/net5.0/Adapter.runtimeconfig.dev.json
+/Users/anushmuradyan/Desktop/Patterns/Adapter/Adapter/bin/Debug/net5.0/Adapter.dll
+/Users/anushmuradyan/Desktop/Patterns/Adapter/Adapter/bin/Debug/net5.0/ref/Adapter.dll
+/Users/anushmuradyan/Desktop/Patterns/Adapter/Adapter/bin/Debug/net5.0/Adapter.pdb
+/Users/anushmuradyan/Desktop/Patterns/Adapter/Adapter/obj/Debug/net5.0/Adapter.csprojAssemblyReference.cache
+/Users/anushmuradyan/Desktop/Patterns/Adapter/Adapter/obj/Debug/net5.0/Adapter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anushmuradyan/Desktop/Patterns/Adapter/Adapter/obj/Debug/net5.0/Adapter.AssemblyInfoInputs.cache
+/Users/anushmuradyan/Desktop/Patterns/Adapter/Adapter/obj/Debug/net5.0/Adapter.AssemblyInfo.cs
+/Users/anushmuradyan/Desktop/Patterns/Adapter/Adapter/obj/Debug/net5.0/Adapter.csproj.CoreCompileInputs.cache
+/Users/anushmuradyan/Desktop/Patterns/Adapter/Adapter/obj/Debug/net5.0/Adapter.dll
+/Users/anushmuradyan/Desktop/Patterns/Adapter/Adapter/obj/Debug/net5.0/ref/Adapter.dll
+/Users/anushmuradyan/Desktop/Patterns/Adapter/Adapter/obj/Debug/net5.0/Adapter.pdb
+/Users/anushmuradyan/Desktop/Patterns/Adapter/Adapter/obj/Debug/net5.0/Adapter.genruntimeconfig.cache

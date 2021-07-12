@@ -1,0 +1,15 @@
+/Users/anushmuradyan/Desktop/Patterns/Decorator/Decorator/bin/Debug/net5.0/Decorator.deps.json
+/Users/anushmuradyan/Desktop/Patterns/Decorator/Decorator/bin/Debug/net5.0/Decorator.runtimeconfig.json
+/Users/anushmuradyan/Desktop/Patterns/Decorator/Decorator/bin/Debug/net5.0/Decorator.runtimeconfig.dev.json
+/Users/anushmuradyan/Desktop/Patterns/Decorator/Decorator/bin/Debug/net5.0/Decorator.dll
+/Users/anushmuradyan/Desktop/Patterns/Decorator/Decorator/bin/Debug/net5.0/ref/Decorator.dll
+/Users/anushmuradyan/Desktop/Patterns/Decorator/Decorator/bin/Debug/net5.0/Decorator.pdb
+/Users/anushmuradyan/Desktop/Patterns/Decorator/Decorator/obj/Debug/net5.0/Decorator.csprojAssemblyReference.cache
+/Users/anushmuradyan/Desktop/Patterns/Decorator/Decorator/obj/Debug/net5.0/Decorator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anushmuradyan/Desktop/Patterns/Decorator/Decorator/obj/Debug/net5.0/Decorator.AssemblyInfoInputs.cache
+/Users/anushmuradyan/Desktop/Patterns/Decorator/Decorator/obj/Debug/net5.0/Decorator.AssemblyInfo.cs
+/Users/anushmuradyan/Desktop/Patterns/Decorator/Decorator/obj/Debug/net5.0/Decorator.csproj.CoreCompileInputs.cache
+/Users/anushmuradyan/Desktop/Patterns/Decorator/Decorator/obj/Debug/net5.0/Decorator.dll
+/Users/anushmuradyan/Desktop/Patterns/Decorator/Decorator/obj/Debug/net5.0/ref/Decorator.dll
+/Users/anushmuradyan/Desktop/Patterns/Decorator/Decorator/obj/Debug/net5.0/Decorator.pdb
+/Users/anushmuradyan/Desktop/Patterns/Decorator/Decorator/obj/Debug/net5.0/Decorator.genruntimeconfig.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anushmuradyan/Desktop/Patterns/Strategy/Strategy/Strategy.csproj",
-      "projectName": "Strategy",
-      "projectPath": "/Users/anushmuradyan/Desktop/Patterns/Strategy/Strategy/Strategy.csproj",
+      "projectUniqueName": "/Users/anushmuradyan/Desktop/Patterns/Adapter/Adapter/Adapter.csproj",
+      "projectName": "Adapter",
+      "projectPath": "/Users/anushmuradyan/Desktop/Patterns/Adapter/Adapter/Adapter.csproj",
       "packagesPath": "/Users/anushmuradyan/.nuget/packages/",
-      "outputPath": "/Users/anushmuradyan/Desktop/Patterns/Strategy/Strategy/obj/",
+      "outputPath": "/Users/anushmuradyan/Desktop/Patterns/Adapter/Adapter/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/anushmuradyan/.nuget/NuGet/NuGet.Config"
